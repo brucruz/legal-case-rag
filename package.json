@@ -1,0 +1,10 @@
+{
+  "name": "legal-case-rag",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev -w api\" \"npm run dev -w web\""
+  }
+}
