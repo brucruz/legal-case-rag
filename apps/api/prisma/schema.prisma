@@ -13,3 +13,30 @@ datasource db {
   provider   = "postgresql"
   extensions = [vector]
 }
+
+model Case {
+  id           String   @id @default(uuid())
+  caseNumber   String   // e.g., "C-131/12"
+  celexId      String?  // e.g., "62012CJ0131" - EUR-Lex identifier
+  title        String
+  court        String
+  date         DateTime
+  jurisdiction String   // "EU", "DE", "DK"
+  summary      String   @db.Text
+  fullText     String   @db.Text
+  sourceUrl    String?  // EUR-Lex URL
+  createdAt    DateTime @default(now())
+
+  chunks       CaseChunk[]
+
+  @@unique([caseNumber])
+}
+
+model CaseChunk {
+  id        String                          @id @default(uuid())
+  caseId    String
+  content   String                          @db.Text
+  embedding Unsupported("vector(1536)")
+
+  case      Case @relation(fields: [caseId], references: [id], onDelete: Cascade)
+}
