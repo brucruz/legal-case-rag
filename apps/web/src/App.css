@@ -1,0 +1,310 @@
+/* Fonts - must be first */
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap");
+
+/* Design tokens */
+:root {
+  --navy: #1a1f35;
+  --navy-light: #2d3452;
+  --paper: #f8f5f0;
+  --paper-dark: #ebe6df;
+  --gold: #c9a227;
+  --gold-light: #e0bc4a;
+  --text: #2d2d2d;
+  --muted: #6b7280;
+  --white: #ffffff;
+  --error: #dc2626;
+  --shadow: 0 2px 8px rgba(26, 31, 53, 0.1);
+  --shadow-hover: 0 4px 16px rgba(26, 31, 53, 0.15);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:
+    "IBM Plex Sans",
+    -apple-system,
+    BlinkMacSystemFont,
+    sans-serif;
+  background-color: var(--paper);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+.header {
+  background-color: var(--navy);
+  color: var(--white);
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.header h1 {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Main content */
+.main {
+  flex: 1;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Search form */
+.search-form {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.search-input {
+  flex: 1;
+  padding: 1rem 1.25rem;
+  font-size: 1rem;
+  font-family: inherit;
+  border: 2px solid var(--paper-dark);
+  border-radius: 8px;
+  background-color: var(--white);
+  transition:
+    border-color 0.2s,
+    box-shadow 0.2s;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--gold);
+  box-shadow: 0 0 0 3px rgba(201, 162, 39, 0.2);
+}
+
+.search-input::placeholder {
+  color: var(--muted);
+}
+
+.search-button {
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  background-color: var(--navy);
+  color: var(--white);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition:
+    background-color 0.2s,
+    transform 0.1s;
+}
+
+.search-button:hover:not(:disabled) {
+  background-color: var(--navy-light);
+}
+
+.search-button:active:not(:disabled) {
+  transform: scale(0.98);
+}
+
+.search-button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* Error message */
+.error {
+  background-color: #fef2f2;
+  border: 1px solid #fecaca;
+  color: var(--error);
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+/* Results */
+.results-title {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--navy);
+  margin-bottom: 1.5rem;
+}
+
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Case card */
+.case-card {
+  background-color: var(--white);
+  border-radius: 12px;
+  padding: 1.5rem;
+  border-left: 4px solid var(--gold);
+  box-shadow: var(--shadow);
+  transition: box-shadow 0.2s;
+}
+
+.case-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.case-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.case-number {
+  font-weight: 600;
+  color: var(--navy);
+  font-size: 0.95rem;
+}
+
+.similarity-badge {
+  background-color: var(--gold);
+  color: var(--white);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.case-title {
+  font-family: "Crimson Pro", Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
+
+.case-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.separator {
+  color: var(--paper-dark);
+}
+
+.relevant-chunk {
+  background-color: var(--paper);
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.relevant-chunk strong {
+  display: block;
+  color: var(--navy);
+  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.relevant-chunk p {
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.summary {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-bottom: 1rem;
+}
+
+.source-link {
+  display: inline-block;
+  color: var(--navy);
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+
+.source-link:hover {
+  color: var(--gold);
+}
+
+/* No results */
+.no-results {
+  text-align: center;
+  padding: 3rem;
+  color: var(--muted);
+}
+
+/* Footer */
+.footer {
+  background-color: var(--navy);
+  color: rgba(255, 255, 255, 0.7);
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.9rem;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .header {
+    padding: 2rem 1rem;
+  }
+
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  .main {
+    padding: 1rem;
+  }
+
+  .search-form {
+    flex-direction: column;
+  }
+
+  .search-button {
+    width: 100%;
+  }
+
+  .case-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .case-meta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .separator {
+    display: none;
+  }
+}

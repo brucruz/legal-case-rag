@@ -1,8 +1,7 @@
 import { ObjectType, Field } from '@nestjs/graphql';
-import { Case } from '@prisma/client';
 
 @ObjectType()
-export class CaseModel implements Case {
+export class CaseModel {
   @Field(() => String)
   id: string;
 
@@ -18,8 +17,8 @@ export class CaseModel implements Case {
   @Field(() => String)
   court: string;
 
-  @Field(() => Date)
-  date: Date;
+  @Field(() => String)
+  date: Date | string;
 
   @Field(() => String)
   jurisdiction: string;
@@ -33,6 +32,6 @@ export class CaseModel implements Case {
   @Field(() => String, { nullable: true })
   sourceUrl: string | null;
 
-  @Field(() => Date)
-  createdAt: Date;
+  @Field(() => String)
+  createdAt: Date | string;
 }
