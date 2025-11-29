@@ -1,0 +1,32 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type CaseModel {
+  id: String!
+  caseNumber: String!
+  celexId: String
+  title: String!
+  court: String!
+  date: DateTime!
+  jurisdiction: String!
+  summary: String!
+  fullText: String!
+  sourceUrl: String
+  createdAt: DateTime!
+}
+
+"""
+A date-time string at UTC, such as 2019-12-03T09:54:33Z, compliant with the date-time format.
+"""
+scalar DateTime
+
+type SearchResult {
+  case: CaseModel!
+  relevantChunk: String!
+  similarity: Float!
+}
+
+type Query {
+  searchCases(query: String!, limit: Int! = 10): [SearchResult!]!
+}

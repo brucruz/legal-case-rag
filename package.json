@@ -5,6 +5,9 @@
     "apps/*"
   ],
   "scripts": {
-    "dev": "concurrently \"npm run dev -w api\" \"npm run dev -w web\""
+    "dev": "npm run dev -w api"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
   }
 }
