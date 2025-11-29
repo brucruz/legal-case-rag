@@ -32,10 +32,10 @@ export class CasesService {
     >`
       select
         "CaseChunk".id,
-        "CaseChunk"."caseId",
-        "CaseChunk".content as relevantChunk,
-        1 - ("CaseChunk".embedding <=> ${embeddingString}::vector) as similarity,
-        row_to_json("Case".*) as case
+        "CaseChunk"."caseId" AS "caseId",
+        "CaseChunk".content AS "relevantChunk",
+        1 - ("CaseChunk".embedding <=> ${embeddingString}::vector) AS similarity,
+        row_to_json("Case".*) AS "case"
       from "CaseChunk"
       left join "Case" on "CaseChunk"."caseId" = "Case".id
       order by "CaseChunk".embedding <=> ${embeddingString}::vector
