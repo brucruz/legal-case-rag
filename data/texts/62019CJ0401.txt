@@ -1,0 +1,651 @@
+JUDGMENT OF THE COURT (Grand Chamber)
+
+26 April 2022 ( *1 )
+
+(Action for annulment – Directive (EU) 2019/790 – Article 17(4), point (b), and point (c), in fine – Article 11 and Article 17(2) of the Charter of Fundamental Rights of the European Union – Freedom of expression and information – Protection of intellectual property – Obligations imposed on online content-sharing service providers – Prior automatic review (filtering) of content uploaded by users)
+
+In Case C‑401/19,
+
+ACTION for annulment under Article 263 TFEU, brought on 24 May 2019,
+
+Republic of Poland, represented by B. Majczyna, M. Wiącek and J. Sawicka, acting as Agents, and by J. Barski, acting as expert,
+
+applicant,
+
+v
+
+European Parliament, represented by D. Warin, S. Alonso de León and W.D. Kuzmienko, acting as Agents,
+
+Council of the European Union, represented by M. Alver, F. Florindo Gijón and D. Kornilaki, acting as Agents,
+
+defendant,
+
+supported by:
+
+Kingdom of Spain, represented initially by S. Centeno Huerta and J. Rodríguez de la Rúa Puig, and subsequently by J. Rodríguez de la Rúa Puig, acting as Agents,
+
+French Republic, represented by A.-L. Desjonquères and A. Daniel, acting as Agents,
+
+Portuguese Republic, represented initially by M.A. Capela de Carvalho Galaz Pimenta, P. Barros da Costa, P. Salvação Barreto and L. Inez Fernandes, and subsequently by M.A. Capela de Carvalho Galaz Pimenta, P. Barros da Costa and P. Salvação Barreto, acting as Agents,
+
+European Commission, represented by F. Erlbacher, S.L. Kalėda, J. Samnadda and B. Sasinowska, acting as Agents,
+
+interveners,
+
+THE COURT (Grand Chamber),
+
+composed of K. Lenaerts, President, A. Arabadjiev, K. Jürimäe, C. Lycourgos, E. Regan and S. Rodin, Presidents of Chambers, M. Ilešič (Rapporteur), J.‑C. Bonichot, M. Safjan, F. Biltgen and P.G. Xuereb, Judges,
+
+Advocate General: H. Saugmandsgaard Øe,
+
+Registrar: L. Carrasco Marco, Administrator,
+
+having regard to the written procedure and further to the hearing on 10 November 2020,
+
+after hearing the Opinion of the Advocate General at the sitting on 15 July 2021,
+
+gives the following
+
+Judgment
+
+1
+
+By its action, the Republic of Poland asks the Court, principally, to annul Article 17(4), point (b), and point (c), in fine, of Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC (OJ 2019 L 130, p. 92) and, in the alternative, should the Court consider that those provisions cannot be severed from the other provisions of Article 17 of Directive 2019/790 without altering the substance thereof, to annul Article 17 of that directive in its entirety.
+
+Legal context
+
+The Charter
+
+2
+
+Article 11(1) of the Charter of Fundamental Rights of the European Union (‘the Charter’) reads as follows:
+
+‘Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers.’
+
+3
+
+Article 17(2) of the Charter provides that ‘intellectual property shall be protected’.
+
+4
+
+According to Article 52(1) and (3) of the Charter:
+
+‘1.   Any limitation on the exercise of the rights and freedoms recognised by [the] Charter must be provided for by law and respect the essence of those rights and freedoms. Subject to the principle of proportionality, limitations may be made only if they are necessary and genuinely meet objectives of general interest recognised by the [European] Union or the need to protect the rights and freedoms of others.
+
+…
+
+3.   In so far as [the] Charter contains rights which correspond to rights guaranteed by the Convention for the Protection of Human Rights and Fundamental Freedoms [(ECHR)], the meaning and scope of those rights shall be the same as those laid down by the said Convention. This provision shall not prevent Union law providing more extensive protection.’
+
+5
+
+Article 53 of the Charter provides, ‘nothing in [the] Charter shall be interpreted as restricting or adversely affecting human rights and fundamental freedoms as recognised, in their respective fields of application, by Union law and international law and by international agreements to which the Union or all the Member States are party, including the [ECHR], and by the Member States’ constitutions’.
+
+Directive 2000/31/EC
+
+6
+
+Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) (OJ 2000 L 178, p. 1) provides, in Article 14(1) thereof:
+
+‘Where an information society service is provided that consists of the storage of information provided by a recipient of the service, Member States shall ensure that the service provider is not liable for the information stored at the request of a recipient of the service, on condition that:
+
+(a)
+
+the provider does not have actual knowledge of illegal activity or information and, as regards claims for damages, is not aware of facts or circumstances from which the illegal activity or information is apparent;
+
+or
+
+(b)
+
+the provider, upon obtaining such knowledge or awareness, acts expeditiously to remove or to disable access to the information.’
+
+Directive 2001/29/EC
+
+7
+
+Article 3(1) of Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society (OJ 2001 L 167, p. 10) provides:
+
+‘Member States shall provide authors with the exclusive right to authorise or prohibit any communication to the public of their works, by wire or wireless means, including the making available to the public of their works in such a way that members of the public may access them from a place and at a time individually chosen by them.’
+
+Directive 2019/790
+
+8
+
+Recitals 2, 3, 61, 65, 66, 70 and 84 of Directive 2019/790 state:
+
+‘(2)
+
+The directives that have been adopted in the area of copyright and related rights contribute to the functioning of the internal market, provide for a high level of protection for rightholders, facilitate the clearance of rights, and create a framework in which the exploitation of works and other protected subject matter can take place. That harmonised legal framework contributes to the proper functioning of the internal market, and stimulates innovation, creativity, investment and production of new content, also in the digital environment, in order to avoid the fragmentation of the internal market. The protection provided by that legal framework also contributes to the Union’s objective of respecting and promoting cultural diversity, while at the same time bringing European common cultural heritage to the fore. …
+
+(3)
+
+Rapid technological developments continue to transform the way works and other subject matter are created, produced, distributed and exploited. New business models and new actors continue to emerge. Relevant legislation needs to be future-proof so as not to restrict technological development. The objectives and the principles laid down by the Union copyright framework remain sound. However, … in some areas it is necessary to adapt and supplement the existing Union copyright framework, while keeping a high level of protection of copyright and related rights. …
+
+…
+
+(61)
+
+In recent years, the functioning of the online content market has gained in complexity. Online content-sharing services providing access to a large amount of copyright-protected content uploaded by their users have become a main source of access to content online. Online services are a means of providing wider access to cultural and creative works and offer great opportunities for cultural and creative industries to develop new business models. However, although they enable diversity and ease of access to content, they also generate challenges when copyright-protected content is uploaded without prior authorisation from rightholders. Legal uncertainty exists as to whether the providers of such services engage in copyright-relevant acts, and need to obtain authorisation from rightholders for content uploaded by their users who do not hold the relevant rights in the uploaded content, without prejudice to the application of exceptions and limitations provided for in Union law. That uncertainty affects the ability of rightholders to determine whether, and under which conditions, their works and other subject matter are used, as well as their ability to obtain appropriate remuneration for such use. It is therefore important to foster the development of the licensing market between rightholders and online content-sharing service providers. Those licensing agreements should be fair and keep a reasonable balance between both parties. Rightholders should receive appropriate remuneration for the use of their works or other subject matter. However, as contractual freedom should not be affected by those provisions, rightholders should not be obliged to give an authorisation or to conclude licensing agreements.
+
+…
+
+(65)
+
+When online content-sharing service providers are liable for acts of communication to the public or making available to the public under the conditions laid down in this Directive, Article 14(1) of Directive [2000/31] should not apply to the liability arising from the provision of this Directive on the use of protected content by online content-sharing service providers. That should not affect the application of Article 14(1) of Directive [2000/31] to such service providers for purposes falling outside the scope of this Directive.
+
+(66)
+
+Taking into account the fact that online content-sharing service providers give access to content which is not uploaded by them but by their users, it is appropriate to provide for a specific liability mechanism for the purposes of this Directive for cases in which no authorisation has been granted. … Where no authorisation has been granted to service providers, they should make their best efforts in accordance with high industry standards of professional diligence to avoid the availability on their services of unauthorised works and other subject matter, as identified by the relevant rightholders. For that purpose, rightholders should provide the service providers with relevant and necessary information taking into account, among other factors, the size of rightholders and the type of their works and other subject matter. The steps taken by online content-sharing service providers in cooperation with rightholders should not lead to the prevention of the availability of non-infringing content, including works or other protected subject matter the use of which is covered by a licensing agreement, or an exception or limitation to copyright and related rights. Steps taken by such service providers should, therefore, not affect users who are using the online content-sharing services in order to lawfully upload and access information on such services.
+
+In addition, the obligations established in this Directive should not lead to Member States imposing a general monitoring obligation. When assessing whether an online content-sharing service provider has made its best efforts in accordance with the high industry standards of professional diligence, account should be taken of whether the service provider has taken all the steps that would be taken by a diligent operator to achieve the result of preventing the availability of unauthorised works or other subject matter on its website, taking into account best industry practices and the effectiveness of the steps taken in light of all relevant factors and developments, as well as the principle of proportionality. For the purposes of that assessment, a number of elements should be considered, such as the size of the service, the evolving state of the art as regards existing means, including potential future developments, to avoid the availability of different types of content and the cost of such means for the services. Different means to avoid the availability of unauthorised copyright-protected content could be appropriate and proportionate depending on the type of content, and, therefore, it cannot be excluded that in some cases availability of unauthorised content can only be avoided upon notification of rightholders. Any steps taken by service providers should be effective with regard to the objectives pursued but should not go beyond what is necessary to achieve the objective of avoiding and discontinuing the availability of unauthorised works and other subject matter.
+
+…
+
+(70)
+
+The steps taken by online content-sharing service providers in cooperation with rightholders should be without prejudice to the application of exceptions or limitations to copyright, including, in particular, those which guarantee the freedom of expression of users. Users should be allowed to upload and make available content generated by users for the specific purposes of quotation, criticism, review, caricature, parody or pastiche. That is particularly important for the purposes of striking a balance between the fundamental rights laid down in the [Charter], in particular the freedom of expression and the freedom of the arts, and the right to property, including intellectual property. Those exceptions and limitations should, therefore, be made mandatory in order to ensure that users receive uniform protection across the Union. It is important to ensure that online content-sharing service providers operate an effective complaint and redress mechanism to support use for such specific purposes.
+
+Online content-sharing service providers should also put in place effective and expeditious complaint and redress mechanisms allowing users to complain about the steps taken with regard to their uploads, in particular where they could benefit from an exception or limitation to copyright in relation to an upload to which access has been disabled or that has been removed. Any complaint filed under such mechanisms should be processed without undue delay and be subject to human review. When rightholders request the service providers to take action against uploads by users, such as disabling access to or removing content uploaded, such rightholders should duly justify their requests. … Member States should also ensure that users have access to out-of-court redress mechanisms for the settlement of disputes. Such mechanisms should allow disputes to be settled impartially. Users should also have access to a court or another relevant judicial authority to assert the use of an exception or limitation to copyright and related rights.
+
+…
+
+(84)
+
+This Directive respects the fundamental rights and observes the principles recognised in particular by the Charter. Accordingly, this Directive should be interpreted and applied in accordance with those rights and principles.’
+
+9
+
+Article 1 of Directive 2019/790, entitled ‘Subject matter and scope’, provides, in paragraph 1 thereof, that that directive lays down rules which aim to harmonise further EU law applicable to copyright and related rights in the framework of the internal market, taking into account, in particular, digital and cross-border uses of protected content, and that that directive also lays down rules on exceptions and limitations to copyright and related rights, on the facilitation of licences, as well as rules which aim to ensure a well-functioning marketplace for the exploitation of works and other subject matter. Paragraph 2 of Article 1 states that Directive 2019/790 does not, in principle, affect existing rules laid down in the directives currently in force in that area, in particular in Directives 2000/31 and 2001/29.
+
+10
+
+For the purposes of Directive 2019/790, the first subparagraph of Article 2(6) of that directive defines the concept of ‘online content-sharing service provider’ as ‘a provider of an information society service of which the main or one of the main purposes is to store and give the public access to a large amount of copyright-protected works or other protected subject matter uploaded by its users, which it organises and promotes for profit-making purposes’. The second subparagraph of that provision excludes from that concept, ‘providers of services, such as not-for-profit online encyclopedias, not-for-profit educational and scientific repositories, open source software-developing and-sharing platforms, providers of electronic communications services …, online marketplaces, business-to-business cloud services and cloud services that allow users to upload content for their own use’.
+
+11
+
+Article 17 of Directive 2019/790, entitled ‘Use of protected content by online content-sharing service providers’, is the single provision of Chapter 2, entitled ‘Certain uses of protected content by online services’, of Title IV of that directive, itself entitled ‘Measures to achieve a well-functioning marketplace for copyright’. Article 17 is worded as follows:
+
+‘1.   Member States shall provide that an online content-sharing service provider performs an act of communication to the public or an act of making available to the public for the purposes of this Directive when it gives the public access to copyright-protected works or other protected subject matter uploaded by its users.
+
+An online content-sharing service provider shall therefore obtain an authorisation from the rightholders referred to in Article 3(1) and (2) of Directive [2001/29], for instance by concluding a licensing agreement, in order to communicate to the public or make available to the public works or other subject matter.
+
+2.   Member States shall provide that, where an online content-sharing service provider obtains an authorisation, for instance by concluding a licensing agreement, that authorisation shall also cover acts carried out by users of the services falling within the scope of Article 3 of Directive [2001/29] when they are not acting on a commercial basis or where their activity does not generate significant revenues.
+
+3.   When an online content-sharing service provider performs an act of communication to the public or an act of making available to the public under the conditions laid down in this Directive, the limitation of liability established in Article 14(1) of Directive [2000/31] shall not apply to the situations covered by this Article.
+
+The first subparagraph of this paragraph shall not affect the possible application of Article 14(1) of Directive [2000/31] to those service providers for purposes falling outside the scope of this Directive.
+
+4.   If no authorisation is granted, online content-sharing service providers shall be liable for unauthorised acts of communication to the public, including making available to the public, of copyright-protected works and other subject matter, unless the service providers demonstrate that they have:
+
+(a)
+
+made best efforts to obtain an authorisation, and
+
+(b)
+
+made, in accordance with high industry standards of professional diligence, best efforts to ensure the unavailability of specific works and other subject matter for which the rightholders have provided the service providers with the relevant and necessary information; and in any event
+
+(c)
+
+acted expeditiously, upon receiving a sufficiently substantiated notice from the rightholders, to disable access to, or to remove from their websites, the notified works or other subject matter, and made best efforts to prevent their future uploads in accordance with point (b).
+
+5.   In determining whether the service provider has complied with its obligations under paragraph 4, and in light of the principle of proportionality, the following elements, among others, shall be taken into account:
+
+(a)
+
+the type, the audience and the size of the service and the type of works or other subject matter uploaded by the users of the service; and
+
+(b)
+
+the availability of suitable and effective means and their cost for service providers.
+
+6.   Member States shall provide that, in respect of new online content-sharing service providers the services of which have been available to the public in the Union for less than three years and which have an annual turnover below EUR 10 million, calculated in accordance with Commission Recommendation 2003/361/EC [of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ 2003 L 124, p. 36)], the conditions under the liability regime set out in paragraph 4 are limited to compliance with point (a) of paragraph 4 and to acting expeditiously, upon receiving a sufficiently substantiated notice, to disable access to the notified works or other subject matter or to remove those works or other subject matter from their websites.
+
+Where the average number of monthly unique visitors of such service providers exceeds 5 million, calculated on the basis of the previous calendar year, they shall also demonstrate that they have made best efforts to prevent further uploads of the notified works and other subject matter for which the rightholders have provided relevant and necessary information.
+
+7.   The cooperation between online content-sharing service providers and rightholders shall not result in the prevention of the availability of works or other subject matter uploaded by users, which do not infringe copyright and related rights, including where such works or other subject matter are covered by an exception or limitation.
+
+Member States shall ensure that users in each Member State are able to rely on any of the following existing exceptions or limitations when uploading and making available content generated by users on online content-sharing services:
+
+(a)
+
+quotation, criticism, review;
+
+(b)
+
+use for the purpose of caricature, parody or pastiche.
+
+8.   The application of this Article shall not lead to any general monitoring obligation.
+
+Member States shall provide that online content-sharing service providers provide rightholders, at their request, with adequate information on the functioning of their practices with regard to the cooperation referred to in paragraph 4 and, where licensing agreements are concluded between service providers and rightholders, information on the use of content covered by the agreements.
+
+9.   Member States shall provide that online content-sharing service providers put in place an effective and expeditious complaint and redress mechanism that is available to users of their services in the event of disputes over the disabling of access to, or the removal of, works or other subject matter uploaded by them.
+
+Where rightholders request to have access to their specific works or other subject matter disabled or to have those works or other subject matter removed, they shall duly justify the reasons for their requests. Complaints submitted under the mechanism provided for in the first subparagraph shall be processed without undue delay, and decisions to disable access to or remove uploaded content shall be subject to human review. Member States shall also ensure that out-of-court redress mechanisms are available for the settlement of disputes. Such mechanisms shall enable disputes to be settled impartially and shall not deprive the user of the legal protection afforded by national law, without prejudice to the rights of users to have recourse to efficient judicial remedies. In particular, Member States shall ensure that users have access to a court or another relevant judicial authority to assert the use of an exception or limitation to copyright and related rights.
+
+This Directive shall in no way affect legitimate uses, such as uses under exceptions or limitations provided for in Union law, and shall not lead to any identification of individual users nor to the processing of personal data, except in accordance with Directive 2002/58/EC [of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ 2002 L 201, p. 37)] and Regulation (EU) 2016/679 [of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ 2016 L 119, p. 1)].
+
+Online content-sharing service providers shall inform their users in their terms and conditions that they can use works and other subject matter under exceptions or limitations to copyright and related rights provided for in Union law.
+
+10.   As of 6 June 2019 the Commission, in cooperation with the Member States, shall organise stakeholder dialogues to discuss best practices for cooperation between online content-sharing service providers and rightholders. The Commission shall, in consultation with online content-sharing service providers, rightholders, users’ organisations and other relevant stakeholders, and taking into account the results of the stakeholder dialogues, issue guidance on the application of this Article, in particular regarding the cooperation referred to in paragraph 4. When discussing best practices, special account shall be taken, among other things, of the need to balance fundamental rights and of the use of exceptions and limitations. For the purpose of the stakeholder dialogues, users’ organisations shall have access to adequate information from online content-sharing service providers on the functioning of their practices with regard to paragraph 4.’
+
+Forms of order sought and procedure before the Court of Justice
+
+12
+
+The Republic of Poland claims that the Court should:
+
+–
+
+annul Article 17(4), point (b), of Directive 2019/790 and Article 17(4), point (c), in fine, namely the wording ‘and made best efforts to prevent their future uploads in accordance with point (b)’;
+
+–
+
+in the alternative, were the Court to find that the provisions referred to in the preceding indent cannot be severed from the other provisions of Article 17 of that directive without altering the substance thereof, annul Article 17 in its entirety;
+
+–
+
+order the European Parliament and the Council of the European Union to pay the costs.
+
+13
+
+The Parliament contends that the Court should dismiss the action as unfounded and order the Republic of Poland to pay the costs.
+
+14
+
+The Council contends that the Court should reject the principal head of claim as inadmissible or dismiss the action as unfounded in its entirety and order the Republic of Poland to pay the costs.
+
+15
+
+By decision of the President of the Court of 17 October 2019, the Kingdom of Spain, the French Republic, the Portuguese Republic and the European Commission were granted leave to intervene in support of the forms of order sought by the Parliament and the Council, in accordance with Article 131(2) of the Rules of Procedure of the Court of Justice.
+
+The action
+
+Admissibility
+
+16
+
+The Parliament and the Council, supported by the French Republic and the Commission, contend that the principal head of claim is inadmissible, since point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790 cannot be severed from the remainder of Article 17.
+
+17
+
+It must be recalled that partial annulment of an EU act is possible only if the elements for which annulment is sought may be severed from the remainder of the act. In that regard, the Court has repeatedly held that the requirement of severability is not satisfied where the partial annulment of an act would have the effect of altering its substance (judgment of 8 December 2020, Poland v Parliament and Council, C‑626/18, EU:C:2020:1000, paragraph 28 and the case-law cited).
+
+18
+
+Consequently, review of whether elements of an EU act are severable requires consideration of the scope of those elements in order to assess whether their annulment would alter the spirit and substance of the act (judgment of 8 December 2020, Poland v Parliament and Council, C‑626/18, EU:C:2020:1000, paragraph 29 and the case-law cited).
+
+19
+
+Further, the question whether partial annulment of an EU act would alter the substance of that act is an objective criterion, and not a subjective criterion linked to the political intention of the institution which adopted the act at issue (judgment of 8 December 2020, Poland v Parliament and Council, C‑626/18, EU:C:2020:1000, paragraph 30 and the case-law cited).
+
+20
+
+As the Advocate General observed in point 44 of his Opinion and as the Parliament and the Council, supported by the French Republic and the Commission, contend, Article 17 of Directive 2019/790 establishes a new liability regime in respect of online content-sharing service providers, the various provisions of which form a whole and, as is apparent from recitals 61 and 66 of that directive, seek to strike a balance between the rights and interests of those providers, those of users of their services and those of rightholders. In particular, the annulment of only point (b) and point (c), in fine, of Article 17(4) of that directive would result in that liability regime’s being replaced by a regime that is both substantially different and significantly more favourable to those providers. A partial annulment of that kind would, therefore, alter the substance of Article 17.
+
+21
+
+It follows that point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790 are not severable from the remainder of Article 17 and that, consequently, the principal head of claim, seeking annulment of those provisions only, is inadmissible.
+
+22
+
+On the other hand, it is not disputed that Article 17 of Directive 2019/790, which appears in a separate chapter of Title IV thereof, concerning measures to achieve a well-functioning marketplace for copyright, is severable from the remainder of that directive and that, therefore, the Republic of Poland’s head of claim submitted in the alternative, seeking annulment of Article 17 in its entirety, is admissible.
+
+Substance
+
+23
+
+In support of its claims, the Republic of Poland raises a single plea in law, alleging infringement of the right to freedom of expression and information, guaranteed in Article 11 of the Charter.
+
+24
+
+That plea is based, in essence, on the argument that, in order to be exempted from all liability for giving the public access to copyright-protected works or other protected subject matter uploaded by their users in breach of copyright, online content-sharing service providers are required, by reason of point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790, to carry out preventive monitoring of all the content which their users wish to upload. In order to do so, those service providers must use IT tools which enable the prior automatic filtering of that content. By imposing de facto such preventive monitoring measures on online content-sharing service providers, without providing safeguards to ensure that the right to freedom of expression and information is respected, it is claimed that the contested provisions constitute a limitation on the exercise of that fundamental right, which respects neither the essence of that right nor the principle of proportionality and which cannot, therefore, be regarded as justified.
+
+25
+
+The Parliament and the Council, supported by the Kingdom of Spain, the French Republic and the Commission, dispute the merits of that single plea in law.
+
+The liability regime introduced in Article 17 of Directive 2019/790
+
+26
+
+As a preliminary point, it must be borne in mind that, until Article 17 of Directive 2019/790 entered into force, the liability of online content-sharing service providers for giving the public access to protected content, uploaded to their platforms by their users in breach of copyright, was governed by Article 3 of Directive 2001/29 and Article 14 of Directive 2000/31.
+
+27
+
+In that regard, first, the Court has held that Article 3(1) of Directive 2001/29 must be interpreted as meaning that the operator of a video-sharing platform or a file-hosting and ‑sharing platform, on which users can illegally make protected content available to the public, does not make a ‘communication to the public’ of that content, within the meaning of that provision, unless it contributes, beyond merely making that platform available, to giving access to such content to the public in breach of copyright. That is the case, inter alia, where that operator has specific knowledge that protected content is available illegally on its platform and refrains from expeditiously deleting it or blocking access to it, or where that operator, despite the fact that it knows or ought to know, in a general sense, that users of its platform are making protected content available to the public illegally via its platform, refrains from putting in place the appropriate technological measures that can be expected from a reasonably diligent operator in its situation in order to counter credibly and effectively copyright infringements on that platform, or where that operator participates in selecting protected content illegally communicated to the public, provides tools on its platform specifically intended for the illegal sharing of such content or knowingly promotes such sharing, which may be attested by the fact that that operator has adopted a financial model that encourages users of its platform illegally to communicate protected content to the public via that platform (judgment of 22 June 2021, YouTube and Cyando, C‑682/18 and C‑683/18, EU:C:2021:503, paragraph 102).
+
+28
+
+Secondly, the Court has found that the activity of the operator of a video-sharing platform or a file-hosting and -sharing platform falls within the scope of Article 14(1) of Directive 2000/31, provided that that operator does not play an active role of such a kind as to give it knowledge of or control over the content uploaded to its platform. In addition, for such an operator to be excluded, under Article 14(1)(a) of that directive, from the exemption from liability provided for in Article 14(1), it must have knowledge of or awareness of specific illegal acts committed by its users relating to protected content that was uploaded to its platform (judgment of 22 June 2021, YouTube and Cyando, C‑682/18 and C‑683/18, EU:C:2021:503, paragraphs 117 and 118).
+
+29
+
+However, as is apparent in particular from recitals 61 and 66 of Directive 2019/790, the EU legislature considered that, in view of the fact that in recent years the functioning of the online content market has gained in complexity and that content-sharing services providing access to a large amount of copyright-protected content have become a main source of access to content online, it was necessary to provide for a specific liability mechanism in respect of the providers of those services in order to foster the development of the fair licensing market between rightholders and those service providers.
+
+30
+
+The EU legislature has provided for a limited scope for that new specific liability mechanism, since the first subparagraph of Article 2(6) of Directive 2019/790 defines an online content-sharing service provider as a provider of an information society service of which the main or one of the main purposes is to store and give the public access to a large amount of copyright-protected works or other protected subject matter uploaded by its users, which it organises and promotes for profit-making purposes. That mechanism is not, therefore, aimed at providers of information society services that do not meet one or more of the criteria set out in that provision and, consequently, those providers remain subject to the general liability regime provided for in Article 14 of Directive 2000/31, in respect of a ‘hosting’ service, and, as the case may be, to that provided for in Article 3 of Directive 2001/29, in accordance with Article 1(2) of Directive 2019/790.
+
+31
+
+Moreover, first, by the second subparagraph of Article 2(6) of Directive 2019/790, the EU legislature reduced the scope of the new specific liability mechanism established by that directive and, secondly, it limited the scope of that mechanism by Article 17(6) of that directive, which, in principle, for certain new providers excludes the application of the provisions of that directive which are the subject of the action for annulment.
+
+32
+
+As regards that new specific liability mechanism, Article 17(1) of Directive 2019/790 provides that an online content-sharing service provider performs an act of communication to the public or an act of making available to the public when it gives the public access to copyright-protected works or other protected subject matter uploaded by its users and that it must, therefore, obtain an authorisation from the rightholders for that purpose, for instance by concluding a licensing agreement.
+
+33
+
+At the same time, Article 17(3) of Directive 2019/790 excludes online content-sharing service providers from the exemption from liability, in relation to such acts, provided for in Article 14(1) of Directive 2000/31.
+
+34
+
+Article 17(4) of Directive 2019/790 introduces a specific liability regime for where no authorisation is granted. Thus, in that case, online content-sharing service providers can be exempted from their liability for such acts of communication and making available of copyright-infringing content only under certain cumulative conditions, listed in points (a) to (c) of that provision. According to Article 17(4), those providers must demonstrate that they have:
+
+–
+
+made their best efforts to obtain an authorisation (point (a)); and
+
+–
+
+made their best efforts, in accordance with high industry standards of professional diligence, to ensure the unavailability of specific works and other protected subject matter for which the rightholders have provided the service providers with the relevant and necessary information (point (b)); and in any event
+
+–
+
+acted expeditiously, upon receiving a sufficiently substantiated notice from the rightholders, to disable access to, or to remove from their websites, the notified works or other protected subject matter, and made their best efforts to prevent their future uploads in accordance with point (b) (point (c)).
+
+35
+
+That specific liability regime, introduced in Article 17(4) of Directive 2019/790, is further specified and supplemented in Article 17(5) to (10) of that directive.
+
+36
+
+Thus, first of all, Article 17(5) of Directive 2019/790 lists the elements to be taken into account in order to determine, in the light of the principle of proportionality, whether the service provider has complied with its obligations under Article 17(4) of that directive.
+
+37
+
+Next, Article 17(7) of Directive 2019/790 states that the cooperation between online content-sharing service providers and rightholders is not to result in the prevention of the availability of works or other protected subject matter uploaded by users, which do not infringe copyright and related rights, including where such works or other protected subject matter are covered by an exception or limitation. That provision lists those exceptions and limitations on which users in each Member State must be able to rely. Article 17(8) of Directive 2019/790 states, inter alia, that the application of that article must not lead to any general monitoring obligation, and Article 17(9) of that directive provides, inter alia, for the putting in place of an effective and expeditious complaint and redress mechanism for users, as well as out-of-court redress mechanisms supplementing judicial remedies.
+
+38
+
+Lastly, Article 17(10) of Directive 2019/790 requires the Commission, in cooperation with the Member States, to organise stakeholder dialogues to discuss best practices, taking special account of the need to balance fundamental rights and of the use of exceptions and limitations, and, in consultation with those stakeholders, to issue guidance on the application, in particular, of the cooperation between online content-sharing service providers and rightholders, referred to in Article 17(4) of that directive.
+
+The existence of a limitation on the exercise of the right to freedom of expression and information, resulting from the liability regime introduced in Article 17 of Directive 2019/790
+
+39
+
+The Republic of Poland submits that, by requiring online content-sharing service providers to make their best efforts, first, to ensure the unavailability of specific protected content for which the rightholders have provided the relevant and necessary information and, secondly, to prevent the protected content that has been the subject of a sufficiently substantiated notice from those rightholders from being uploaded in the future, point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790 limit the exercise of the right to freedom of expression and information of the users of those services, guaranteed by Article 11 of the Charter.
+
+40
+
+According to the Republic of Poland, in order to be able to fulfil those obligations and therefore benefit from the exemption from liability, provided for in Article 17(4) of Directive 2019/790, online content-sharing service providers are required to review all the content uploaded by their users, prior to its dissemination to the public. In order to do so, those providers must, in the absence of other practicable solutions, use automatic filtering tools.
+
+41
+
+In the Republic of Poland’s view, such preventive review constitutes a particularly serious interference with the right to freedom of expression and information of users of online content-sharing services, since, first, it carries with it the risk that lawful content will be blocked and, secondly, the unlawfulness and, thus the blocking of content, is determined automatically by algorithms, even before any dissemination of the content in question.
+
+42
+
+The Republic of Poland further submits that the EU legislature cannot disclaim its liability for that interference with the right guaranteed in Article 11 of the Charter, since it is the inevitable consequence, or even the consequence anticipated by the EU institutions, of the liability regime established in Article 17(4) of Directive 2019/790.
+
+43
+
+The Parliament and the Council, supported by the Kingdom of Spain, the French Republic and the Commission, deny that that liability regime has the effect of limiting the right to freedom of expression and information of users of online content-sharing services and maintain that, in any event, any limitation of that right, resulting from the implementation of that regime, cannot be attributed to the EU legislature.
+
+44
+
+The Court observes that, under Article 11 of the Charter, everyone has the right to freedom of expression, which includes freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. As is apparent from the Explanations relating to the Charter of Fundamental Rights (OJ 2007 C 303, p. 17) and in accordance with Article 52(3) of the Charter, the rights guaranteed in Article 11 thereof have the same meaning and scope as those guaranteed in Article 10 ECHR.
+
+45
+
+It should be noted in that regard that the sharing of information on the internet via online content-sharing platforms falls within the scope of Article 10 ECHR and Article 11 of the Charter.
+
+46
+
+According to the case-law of the European Court of Human Rights (ECtHR), Article 10 ECHR guarantees freedom of expression and information for everyone and applies not only to the content of information, but also to the means of its dissemination, for any restriction imposed on the latter necessarily interferes with the freedom to receive and impart information. As that court has pointed out, the internet has now become one of the principal means by which individuals exercise their right to freedom of expression and information. In the light of their accessibility and their capacity to store and communicate vast amounts of information, internet sites, and in particular online content-sharing platforms, play an important role in enhancing the public’s access to news and facilitating the dissemination of information in general, with user-generated expressive activity on the internet providing an unprecedented platform for the exercise of freedom of expression (see, to that effect, ECtHR, 1 December 2015, Cengiz and Others v. Turkey, CE:ECHR:2015:1201JUD004822610, § 52, and ECtHR, 23 June 2020, Vladimir Kharitonov v. Russia, CE:ECHR:2020:0623JUD001079514, § 33 and the case-law cited).
+
+47
+
+Thus, in its interpretation of the liability regime based on Article 3 of Directive 2001/29 and Article 14 of Directive 2000/31, applicable to online content-sharing service providers until the entry into force of Article 17 of Directive 2019/790, the Court emphasised the need to take due account of the particular importance of the internet to freedom of expression and information, safeguarded by Article 11 of the Charter, and thus to ensure respect for that fundamental right when that regime was implemented (see, to that effect, judgment of 22 June 2021, YouTube and Cyando, C‑682/18 and C‑683/18, EU:C:2021:503, paragraphs 64, 65 and 113).
+
+48
+
+In order to determine whether the specific liability regime, established in Article 17(4) of Directive 2019/790 in respect of online content-sharing service providers, entails a limitation on the exercise of the right to freedom of expression and information of users of those content-sharing services, it must be noted, first of all, that that provision is based on the premiss that those providers are not necessarily able to obtain authorisation for all the protected content that may be uploaded on their platforms by users thereof. In that context, the Court points out that rightholders are free to determine whether and, if so, under what conditions, their works and other protected subject matter are used. As recital 61 of Directive 2019/790 states, contractual freedom is not affected by that directive, and those rightholders are, therefore, in no way obliged to give authorisation or to conclude licensing agreements for the use of their works in favour of online content-sharing service providers.
+
+49
+
+In those circumstances, in order to avoid liability where users upload unlawful content to the platforms of online content-sharing service providers for which the latter have no authorisation from the rightholders, those providers must demonstrate that they have made their best efforts, within the meaning of point (a) of Article 17(4) of Directive 2019/790, to obtain such an authorisation and that they fulfil all the other conditions for exemption, laid down in points (b) and (c) of Article 17(4) of that directive.
+
+50
+
+Under those other conditions, the obligations incumbent upon online content-sharing service providers are not limited to that referred to at the beginning of point (c) of Article 17(4) of Directive 2019/790, which corresponds to the obligation already incumbent upon them under Article 14(1)(b) of Directive 2000/31, and which consists in having to act expeditiously, upon receiving a sufficiently substantiated notice from the rightholders, in order to disable access to, or to remove from their platforms, the protected content notified (see, also, judgment of 22 June 2021, YouTube and Cyando, C‑682/18 and C‑683/18, EU:C:2021:503, paragraph 116).
+
+51
+
+Indeed, in addition to that obligation, those providers are required, first, as regards specific protected content for which the rightholders have sent them the relevant and necessary information, to ‘make their best efforts in accordance with high industry standards of professional diligence … to ensure the unavailability’ of that content, pursuant to point (b) of Article 17(4) of Directive 2019/790.
+
+52
+
+Secondly, as regards the protected content which, after being made available to the public, has been the subject of a sufficiently reasoned notification by the rightholders, those providers must, pursuant to point (c), in fine, of Article 17(4) of Directive 2019/790, make their ‘best efforts to prevent [its future upload] in accordance with point (b)’ of Article 17(4).
+
+53
+
+It therefore follows from the wording and scheme of points (b) and (c) of Article 17(4) of Directive 2019/790 that, in order to benefit from the exemption from liability, and subject to the exception laid down for new providers, within the meaning of Article 17(6) of that directive, online content-sharing service providers are not only required to act expeditiously to bring to an end on their platforms specific copyright infringements after they have occurred and after receiving a sufficiently substantiated notice from rightholders, but must also, after receipt of such a notice or where those rightholders have provided them with the relevant and necessary information prior to the occurrence of a copyright infringement, ‘make their best efforts in accordance with high industry standards of professional diligence’ to prevent such infringements from occurring or reoccurring. As the Republic of Poland states, those obligations therefore require de facto those service providers to carry out a prior review of the content that users wish to upload to their platforms, provided that the service providers have received from the rightholders the information or notices provided for in points (b) and (c) of Article 17(4) of Directive 2019/790.
+
+54
+
+Furthermore, as the Advocate General observed in points 57 to 69 of his Opinion, in order to be able to carry out such a prior review, online content-sharing service providers are, depending on the number of files uploaded and the type of protected subject matter in question, and within the limits set out in Article 17(5) of Directive 2019/790, required to use automatic recognition and filtering tools. In particular, neither the defendant institutions nor the interveners were able, at the hearing before the Court, to designate possible alternatives to such tools.
+
+55
+
+Such a prior review and prior filtering are liable to restrict an important means of disseminating online content and thus to constitute a limitation on the right guaranteed by Article 11 of the Charter.
+
+56
+
+In addition, contrary to what the defendant institutions contend, that limitation is attributable to the EU legislature, since it is the direct consequence of the specific liability regime established in respect of online content-sharing service providers in Article 17(4) of Directive 2019/790.
+
+57
+
+Furthermore, Article 17(5) of that directive expressly refers to the ‘obligations’ on those providers ‘under paragraph 4’ of Article 17 and lists elements that must be taken into account in order to determine whether, in the light of the principle of proportionality, such a provider ‘has complied with’ those obligations.
+
+58
+
+It must, therefore, be concluded that the specific liability regime, established in Article 17(4) of Directive 2019/790 in respect of online content-sharing service providers, entails a limitation on the exercise of the right to freedom of expression and information of users of those content-sharing services, guaranteed in Article 11 of the Charter.
+
+The justification for the limitation on the exercise of the right to freedom of expression and information resulting from the liability regime introduced in Article 17 of Directive 2019/790
+
+59
+
+The Republic of Poland submits that the limitation on the exercise of that fundamental right of users of online content-sharing services, resulting from the liability regime established in Article 17 of Directive 2019/790, does not meet the requirements laid down in Article 52(1) of the Charter.
+
+60
+
+According to the Republic of Poland, Article 17 does not contain safeguards to ensure that the essence of that fundamental right and the principle of proportionality are respected when the obligations provided for in point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790 are implemented. In particular, those provisions do not, in its view, lay down any clear and precise rule as to the manner in which online content-sharing service providers must fulfil those obligations, thereby giving them ‘carte blanche’ to put in place prior review and filtering mechanisms which infringe the right to freedom of expression and information of the users of those services. Moreover, Article 17(7) to (9) of that directive would not, when those obligations are being implemented, prevent lawful content from also being automatically blocked and its dissemination to the public being at the very least significantly delayed, with the risk that that content would lose all its interest and informative value before dissemination.
+
+61
+
+The Republic of Poland further contends that, by adopting the liability regime established in Article 17 of that directive, the EU legislature disregarded the fair balance between the protection of rightholders and users of online content-sharing services, especially since the objectives pursued by that liability regime could already be largely achieved by the other conditions laid down in Article 17(4) of that directive.
+
+62
+
+The Parliament and the Council, supported by the Kingdom of Spain, the French Republic and the Commission, dispute the arguments put forward by the Republic of Poland and contend, inter alia, that Article 17 of Directive 2019/790 comprises a comprehensive system of safeguards which preserves the right to freedom of expression and information of users of online content-sharing services and the fair balance between the rights and interests involved.
+
+63
+
+It should be noted that, in accordance with Article 52(1) of the Charter, any limitation on the exercise of the rights and freedoms recognised by that charter must be provided for by law and respect the essence of those rights and freedoms. Subject to the principle of proportionality, limitations may be made only if they are necessary and genuinely meet objectives of general interest recognised by the European Union or the need to protect the rights and freedoms of others.
+
+64
+
+In that regard, the Court has held that the requirement that any limitation on the exercise of fundamental rights must be provided for by law implies that the act which permits the interference with those rights must itself define the scope of the limitation on the exercise of the right concerned (see, to that effect, judgment of 16 July 2020, Facebook Ireland and Schrems, C‑311/18, EU:C:2020:559, paragraph 175 and the case-law cited).
+
+65
+
+As regards observance of the principle of proportionality, that principle requires that the limitations which may, in particular, be imposed by acts of EU law on rights and freedoms enshrined in the Charter do not exceed the limits of what is appropriate and necessary in order to meet the legitimate objectives pursued or the need to protect the rights and freedoms of others; where there is a choice between several appropriate measures, recourse must be had to the least onerous, and the disadvantages caused must not be disproportionate to the aims pursued (see, to that effect, judgments of 13 March 2019, Poland v Parliament and Council, C‑128/17, EU:C:2019:194, paragraph 94 and the case-law cited, and of 17 December 2020, Centraal Israëlitisch Consistorie van België and Others, C‑336/19, EU:C:2020:1031, paragraph 64 and the case-law cited).
+
+66
+
+Moreover, where several fundamental rights and principles enshrined in the Treaties are at issue, the assessment of observance of the principle of proportionality must be carried out in accordance with the need to reconcile the requirements of the protection of those various rights and principles at issue, striking a fair balance between them (see, to that effect, judgment of 17 December 2020, Centraal Israëlitisch Consistorie van België and Others, C‑336/19, EU:C:2020:1031, paragraph 65 and the case-law cited).
+
+67
+
+In addition, in order to satisfy the requirement of proportionality, the legislation which entails an interference with fundamental rights must lay down clear and precise rules governing the scope and application of the measure in question and imposing minimum safeguards, so that the persons whose exercise of those rights is limited have sufficient guarantees to protect them effectively against the risk of abuse. That legislation must, in particular, indicate in what circumstances and under which conditions such a measure may be adopted, thereby ensuring that the interference is limited to what is strictly necessary. The need for such safeguards is all the greater where the interference stems from an automated process (see, to that effect, judgment of 16 July 2020, Facebook Ireland and Schrems, C‑311/18, EU:C:2020:559 paragraph 176 and the case-law cited).
+
+68
+
+As regards, in particular, a limitation on the exercise of the right to freedom of expression and information such as that at issue in the present case, it follows from the case-law of the European Court of Human Rights that, although Article 10 ECHR does not prohibit prior restraints on a means of dissemination as such, such restraints nonetheless pose such a risk to compliance with that fundamental right that a particularly tight legal framework is required (ECtHR, 18 December 2012, Ahmet Yildirim v. Turkey, CE:ECHR:2012:1218JUD000311110, §§ 47 and 64 and the case-law cited).
+
+69
+
+It is in the light of those considerations that the Court must examine whether the limitation on the exercise of the right to freedom of expression and information of users of online content-sharing services – enshrined in Article 11 of the Charter – which results from the liability regime established in Article 17(4) of Directive 2019/790 in respect of the providers of those content-sharing services, meets the requirements laid down in Article 52(1) of the Charter. For the purposes of that examination, account must be taken not only of Article 17(4) considered in isolation, but also of the provisions which further specify and supplement that regime and, in particular, of Article 17(7) to (10) of that directive. In addition, account must be taken of the legitimate objective pursued by the establishment of that regime, namely the protection of the holders of copyright and related rights, guaranteed, as intellectual property rights, in Article 17(2) of the Charter.
+
+70
+
+In that context, it must be borne in mind that, in accordance with a general principle of interpretation, an EU measure must be interpreted, as far as possible, in such a way as not to affect its validity and in conformity with primary law as a whole and, in particular, with the provisions of the Charter. Thus, if the wording of secondary EU law is open to more than one interpretation, preference should be given to the interpretation which renders the provision consistent with primary law rather than to the interpretation which leads to its being incompatible with that law (judgment of 14 May 2019, M and Others(Revocation of refugee status), C‑391/16, C‑77/17 and C‑78/17, EU:C:2019:403, paragraph 77 and the case-law cited).
+
+71
+
+In addition, the present examination, in the light of the requirements laid down in Article 52(1) of the Charter, concerns the specific liability regime in respect of online content-sharing service providers, as established by Article 17(4) of Directive 2019/790, which does not prejudge any examination which may subsequently be carried out in relation to the provisions adopted by the Member States for the purposes of transposing that directive or of the measures determined by those providers in order to comply with that regime.
+
+72
+
+In the context of the present examination, in the first place, it should be noted that the limitation on the exercise of the right to freedom of expression and information of users of online content-sharing services is provided for by law, since it results from the obligations imposed on the providers of those services by a provision of an EU act, namely point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790, as stated in paragraph 53 above.
+
+73
+
+Admittedly, that provision does not define the actual measures that those service providers must adopt in order (i) to ensure the unavailability of specific protected content for which the rightholders have provided the relevant and necessary information or (ii) to prevent protected content that has been the subject of a sufficiently substantiated notice from those rightholders from being uploaded in the future. The provision in question merely requires those service providers to make their ‘best efforts’ in that regard, ‘in accordance with high industry standards of professional diligence’. According to the explanations provided by the Parliament and the Council, the wording of that provision is intended to ensure that the obligations thus imposed can be adapted to the particular circumstances of the various online content-sharing service providers and also to the development of industry practices and of available technologies.
+
+74
+
+Nonetheless, in accordance with the case-law of the European Court of Human Rights, the requirement that any limitation on the exercise of a fundamental right must be provided for by law does not preclude the legislation containing that limitation from being formulated in terms which are sufficiently open to be able to keep pace with changing circumstances (see, to that effect, ECtHR, 16 June 2015, Delfi AS v. Estonia, CE:ECHR:2015:0616JUD006456909, § 121 and the case-law cited).
+
+75
+
+Furthermore, as regards an obligation, imposed on internet service providers, to take measures to ensure that copyright is complied with when their services are used, it may, as the case may be, even prove necessary – in order to respect the freedom of those service providers to conduct a business, guaranteed in Article 16 of the Charter, and to respect the fair balance between that freedom, the right to freedom of expression and information of the users of their services, enshrined in Article 11 of the Charter, and the right to intellectual property of the rightholders, protected in Article 17(2) of the Charter – to leave those service providers to determine the specific measures to be taken in order to achieve the result sought; accordingly, they can choose to put in place the measures which are best adapted to the resources and abilities available to them and which are compatible with the other obligations and challenges which they will encounter in the exercise of their activity (see, to that effect, judgment of 27 March 2014, UPC Telekabel Wien, C‑314/12, EU:C:2014:192, paragraph 52).
+
+76
+
+In the second place, it is necessary to find that the limitation on the exercise of the right to freedom of expression and information of users of online content-sharing services respects the essence of the right to freedom of expression and information, guaranteed in Article 11 of the Charter, in accordance with Article 52(1) of the Charter.
+
+77
+
+In that regard, it must be noted that the first subparagraph of Article 17(7) of Directive 2019/790 expressly states that the ‘cooperation between online content-sharing service providers and rightholders shall not result in the prevention of the availability of works or other subject matter uploaded by users, which do not infringe copyright and related rights, including where such works or other subject matter are covered by an exception or limitation’ of those rights.
+
+78
+
+According to its unambiguous wording, the first subparagraph of Article 17(7) of Directive 2019/790, unlike point (b) and point (c), in fine, of Article 17(4) of that directive, is not limited to requiring online content-sharing service providers to make their ‘best efforts’ to that end, but prescribes a specific result to be achieved.
+
+79
+
+Furthermore, the third subparagraph of Article 17(9) of Directive 2019/790 states that that directive ‘shall in no way affect legitimate uses, such as uses under exceptions or limitations provided for in Union law’.
+
+80
+
+It clearly follows, therefore, from Article 17(7) and (9) of Directive 2019/790 and from recitals 66 and 70 thereof that, in order to protect the right to freedom of expression and information of users of online content-sharing services, enshrined in Article 11 of the Charter, and the fair balance between the various rights and interests at stake, the EU legislature has laid down that the implementation of the obligations imposed on those service providers in point (b) and point (c), in fine, of Article 17(4) of that directive cannot, in particular, lead to the latter’s taking measures which would affect the essence of that fundamental right of users who share content on their platforms which does not infringe copyright and related rights.
+
+81
+
+In that regard, Directive 2019/790 indeed reflects the Court’s case-law according to which measures adopted by service providers, such as the providers at issue in the main proceedings, must comply with the right to freedom of expression and information of internet users and must, in particular, be strictly targeted in order to enable effective protection of copyright but without thereby affecting users who are lawfully using those providers’ services (see, to that effect, judgment of 27 March 2014, UPC Telekabel Wien, C‑314/12, EU:C:2014:192, paragraphs 55 and 56).
+
+82
+
+In the third place, in the context of the review of proportionality referred to in Article 52(1) of the Charter, it must be noted, first of all, that the limitation on the exercise of the right to freedom of expression and information of users of online content-sharing services, referred to in paragraph 69 above, meets the need to protect the rights and freedoms of others within the meaning of Article 52(1) of the Charter, that is, in this case, the need to protect intellectual property guaranteed in Article 17(2) of the Charter. The obligations imposed in Article 17 of Directive 2019/790 on online content-sharing service providers, from which the abovementioned limitation arises, seek – as is apparent in particular from recitals 2, 3 and 61 of Directive 2019/790 – to ensure that intellectual property rights are protected in such a way as to contribute to the achievement of a well-functioning and fair marketplace for copyright. However, in the context of online content-sharing services, copyright protection must necessarily be accompanied, to a certain extent, by a limitation on the exercise of the right of users to freedom of expression and information.
+
+83
+
+Next, the liability mechanism referred to in Article 17(4) of Directive 2019/790 is not only appropriate but also appears necessary to meet the need to protect intellectual property rights. In particular, although the alternative mechanism proposed by the Republic of Poland, under which only the obligations laid down in point (a) and the beginning of point (c) of Article 17(4) would be imposed on online content-sharing service providers, would indeed constitute a less restrictive measure with regard to exercising the right to freedom of expression and information, that alternative mechanism would, however, not be as effective in terms of protecting intellectual property rights as the mechanism adopted by the EU legislature.
+
+84
+
+Lastly, it must be found that the obligations imposed on online content-sharing service providers in Article 17(4) of Directive 2019/790 do not disproportionately restrict the right to freedom of expression and information of users of those services.
+
+85
+
+First, as the Advocate General observed in points 164, 165 and 191 to 193 of his Opinion, it follows from Article 17(7) and (9) of Directive 2019/790 and from recitals 66 and 70 thereof that, in order to prevent the risk which, in particular, the use of automatic recognition and filtering tools entails for the right to freedom of expression and information of users of online content-sharing services, the EU legislature laid down a clear and precise limit, within the meaning of the case-law referred to in paragraph 67 above, on the measures that may be taken or required in implementing the obligations laid down in point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790, by excluding, in particular, measures which filter and block lawful content when uploading.
+
+86
+
+In that context, it must be borne in mind that the Court has already held that a filtering system which might not distinguish adequately between unlawful content and lawful content, with the result that its introduction could lead to the blocking of lawful communications, would be incompatible with the right to freedom of expression and information, guaranteed in Article 11 of the Charter, and would not respect the fair balance between that right and the right to intellectual property. The Court emphasised, in that regard, that the reply to the question whether a transmission is lawful also depends on the application of statutory exceptions to copyright which vary from one Member State to another. In addition, in some Member States certain works fall within the public domain or may be posted online free of charge by the authors concerned (see, to that effect, judgment of 16 February 2012, SABAM, C‑360/10, EU:C:2012:85, paragraphs 50 and 51 and the case-law cited).
+
+87
+
+Secondly, as regards the exceptions and limitations to copyright, which confer rights on the users of works or of other protected subject matter and which seek to ensure a fair balance between the fundamental rights of those users and of rightholders (see, to that effect, judgment of 29 July 2019, Funke Medien NRW, C‑469/17, EU:C:2019:623, paragraph 70 and the case-law cited), it should be noted that the second subparagraph of Article 17(7) of Directive 2019/790 requires Member States to ensure that users in each Member State are authorised to upload and make available content generated by themselves for the specific purposes of quotation, criticism, review, caricature, parody or pastiche. As is apparent from recital 70 of that directive, the EU legislature considered that, in view of the particular importance of those exceptions and limitations for freedom of expression and freedom of the arts and, therefore, for the abovementioned fair balance, it was necessary to make such exceptions and limitations, which are among those provided for on an optional basis in Article 5 of Directive 2001/29, mandatory, in order to ensure that users receive uniform protection in that regard across the European Union.
+
+88
+
+Furthermore, with the same objective of ensuring users’ rights, the fourth subparagraph of Article 17(9) of Directive 2019/790 requires online content-sharing service providers to inform their users, in their terms and conditions, that they can use works and other protected subject matter under exceptions or limitations to copyright and related rights, provided for in EU law.
+
+89
+
+Thirdly, the fact that the liability of service providers for ensuring that certain content is unavailable can be incurred, under point (b) and point (c), in fine, of Article 17(4) of Directive 2019/790, only on condition that the rightholders concerned provide them with the relevant and necessary information with regard to that content, protects the exercise of the right to freedom of expression and information of users who lawfully use those services. Since the provision of undoubtedly relevant and necessary information is a precondition for finding service providers liable, those providers will not, in the absence of such information, be led to make the content concerned unavailable.
+
+90
+
+Fourthly, by stating, in terms similar to those employed in Article 15(1) of Directive 2000/31 in respect of that directive, that the application of Article 17 of Directive 2019/790 must not lead to any general monitoring obligation, Article 17(8) of that directive provides an additional safeguard for ensuring that the right to freedom of expression and information of users of online content-sharing services is observed. That clarification means that the providers of those services cannot be required to prevent the uploading and making available to the public of content which, in order to be found unlawful, would require an independent assessment of the content by them in the light of the information provided by the rightholders and of any exceptions and limitations to copyright (see, by analogy, judgment of 3 October 2019, Glawischnig-Piesczek, C‑18/18, EU:C:2019:821, paragraphs 41 to 46).
+
+91
+
+In particular, as recital 66 of Directive 2019/790 states, it cannot be excluded that in some cases availability of unauthorised content can only be avoided upon notification of rightholders. In addition, as regards such a notification, the Court has held that it must contain sufficient information to enable the online content-sharing service provider to satisfy itself, without a detailed legal examination, that the communication of the content at issue is illegal and that removing that content is compatible with freedom of expression and information (judgment of 22 June 2021, YouTube and Cyando, C‑682/18 and C‑683/18, EU:C:2021:503, paragraph 116).
+
+92
+
+In that context, it should be recalled that, although the protection of intellectual property rights is indeed enshrined in Article 17(2) of the Charter, there is nothing whatsoever in the wording of that provision or in the Court’s case-law to suggest that that right is inviolable and must for that reason be protected as an absolute right (judgment of 29 July 2019, Funke Medien NRW, C‑469/17, EU:C:2019:623, paragraph 72 and the case-law cited).
+
+93
+
+Fifthly, the first and second subparagraphs of Article 17(9) of Directive 2019/790 introduce several procedural safeguards, which are additional to those provided for in Article 17(7) and (8) of that directive, and which protect the right to freedom of expression and information of users of online content-sharing services in cases where, notwithstanding the safeguards laid down in those latter provisions, the providers of those services nonetheless erroneously or unjustifiably block lawful content.
+
+94
+
+Thus, it follows from the first and second subparagraphs of Article 17(9) and recital 70 of Directive 2019/790 that the EU legislature considered it important to ensure that online content-sharing service providers put in place effective and expeditious complaint and redress mechanisms to support lawful uses of works or other protected subject matter and, in particular, those uses covered by exceptions and limitations to copyright that are aimed at protecting freedom of expression and freedom of the arts. Under those provisions, users must be able to submit a complaint where they consider that access to content which they have uploaded has been wrongly disabled or that such content has been wrongly removed. Any complaint must be processed without undue delay and be subject to human review. In addition, where rightholders request service providers to take measures as regards content uploaded by users, such as disabling access to, or removing, that content, the reasons for their requests must be duly justified.
+
+95
+
+Furthermore, in accordance with those same provisions, Member States must ensure that users have access to out-of-court redress mechanisms that enable disputes to be settled impartially and to efficient judicial remedies. In particular, users must be able to have access to a court or another relevant judicial authority to assert the use of an exception or limitation to copyright and related rights.
+
+96
+
+Sixthly, Article 17(10) of Directive 2019/790 supplements the system of safeguards provided for in Article 17(7) to (9) of that directive, by requiring the Commission to organise, in cooperation with the Member States, stakeholder dialogues to discuss best practices for cooperation between online content-sharing service providers and rightholders, and also to issue guidance on the application of Article 17 of that directive, and, in particular, of paragraph 4 thereof, taking into account the result of those dialogues and after consultation with stakeholders, including users’ organisations.
+
+97
+
+Article 17(10) of Directive 2019/790 expressly states in that regard that, when discussing best practices, special account must be taken, among other things, of the need to balance fundamental rights and of the use of exceptions and limitations. In addition, for the purpose of the stakeholder dialogues, users’ organisations must have access to adequate information from online content-sharing service providers on the functioning of their practices with regard to Article 17(4) of that directive.
+
+98
+
+It follows from the findings in paragraphs 72 to 97 above that, contrary to what the Republic of Poland maintains, the obligation on online content-sharing service providers to review, prior to its dissemination to the public, the content that users wish to upload to their platforms, resulting from the specific liability regime established in Article 17(4) of Directive 2019/790, and in particular from the conditions for exemption from liability laid down in point (b) and point (c), in fine, of Article 17(4) of that directive, has been accompanied by appropriate safeguards by the EU legislature in order to ensure, in accordance with Article 52(1) of the Charter, respect for the right to freedom of expression and information of the users of those services, guaranteed by Article 11 of the Charter, and a fair balance between that right, on the one hand, and the right to intellectual property, protected by Article 17(2) of the Charter, on the other.
+
+99
+
+Member States must, when transposing Article 17 of Directive 2019/790 into their national law, take care to act on the basis of an interpretation of that provision which allows a fair balance to be struck between the various fundamental rights protected by the Charter. Further, when implementing the measures transposing that same provision, the authorities and courts of the Member States must not only interpret their national law in a manner consistent with that provision but also make sure that they do not act on the basis of an interpretation of the provision which would be in conflict with those fundamental rights or with the other general principles of EU law, such as the principle of proportionality (see, to that effect, judgment of 29 January 2008, Promusicae, C‑275/06, EU:C:2008:54, paragraph 68).
+
+100
+
+In the light of all the foregoing considerations, the single plea in law advanced by the Republic of Poland in support of its action must be rejected and, accordingly, that action must be dismissed.
+
+Costs
+
+101
+
+Under Article 138(1) of the Rules of Procedure, the unsuccessful party is to be ordered to pay the costs if they have been applied for in the successful party’s pleadings. Since the Parliament and the Council have applied for costs to be awarded against the Republic of Poland, and the latter has been unsuccessful, it must be ordered to pay the costs.
+
+102
+
+In accordance with Article 140(1) of the Rules of Procedure, the Kingdom of Spain, the French Republic, the Portuguese Republic and the Commission must bear their own costs.
+
+ 	
+On those grounds, the Court (Grand Chamber) hereby:
+
+ 	
+1.
+
+Dismisses the action;
+
+ 	
+2.
+
+Orders the Republic of Poland to pay the costs;
+
+ 	
+3.
+
+Orders the Kingdom of Spain, the French Republic, the Portuguese Republic and the European Commission to bear their own costs.
